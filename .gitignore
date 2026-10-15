@@ -1,0 +1,5 @@
+# Firmware de Apple (muy pesado y no redistribuible)
+*.ipsw
+# Registros de restauración/diagnóstico (pueden contener identificadores del equipo)
+*.log
+diagnostico.txt
